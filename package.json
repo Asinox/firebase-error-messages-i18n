@@ -1,0 +1,24 @@
+{
+  "name": "firebase-error-message-i18n",
+  "version": "1.0.0",
+  "description": "i18n firebase error messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asinox/firebase-error-messages-i18n.git"
+  },
+  "keywords": [
+    "firebase",
+    "error",
+    "message"
+  ],
+  "author": "Juan Miguel Calcano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asinox/firebase-error-messages-i18n/issues"
+  },
+  "homepage": "https://github.com/Asinox/firebase-error-messages-i18n#readme"
+}
