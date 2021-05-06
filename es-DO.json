@@ -58,7 +58,7 @@
     "auth/missing-phone-number": "El número de telefono no ha sido suministrado.",
     "auth/missing-verification-id": "El ID de verificación no ha sido suministrado.",
     "auth/app-deleted": "",
-    "auth/account-exists-with-different-credential": "Ya existe una cuenta con la misma dirección de correo electrónico pero diferentes credenciales de inicio de sesión. Inicie sesión con un proveedor asociado a esta dirección de correo electrónico.",
+    "auth/account-exists-with-different-credential": "Ya existe una cuenta con la misma dirección de correo electrónico. Inicie sesión con este correo electrónico o Google.",
     "auth/network-request-failed": "",
     "auth/null-user": "",
     "auth/no-auth-event": "",
