@@ -1,6 +1,6 @@
 {
-  "name": "firebase-error-message-i18n",
-  "version": "1.0.0",
+  "name": "firebase-error-messages-i18n",
+  "version": "1.0.1",
   "description": "i18n firebase error messages",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "error",
     "message"
   ],
-  "author": "Juan Miguel Calcano",
+  "author": "@asinox [https://www.github.com/asinox]",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Asinox/firebase-error-messages-i18n/issues"
